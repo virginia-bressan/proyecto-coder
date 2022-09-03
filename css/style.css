@@ -16,7 +16,7 @@ body{
 h1{
     line-height: 2;
     font-size: 45px;
-    background-color: #EC7272;
+    background-image: linear-gradient( #e25858, #EC7272 , #f7a76c);
     color: rgb(43, 43, 139);
     text-decoration: underline;
     text-align: center;
@@ -43,6 +43,12 @@ h5 {
     top: 10px;
 }
 
+    
+
+p {
+    font-size: 28px ;
+    background-image: linear-gradient( #b8b37b , #C3FF99) ;
+}
 /* index */
 .titulo{
     color: rgb(43, 43, 139);
@@ -94,12 +100,19 @@ h5 {
     background-color: #e2dc9c;
     font-size: 20px;
     font-weight: bold;
-    
 }
 .email {
     height: 35px;
     width: 270px;
     border: 5px solid black;
+} 
+.email:focus {
+    border: 5px solid red;
+}
+
+.ubicacion {
+    transform: translate( 30px , 20px);
+    
 }
 /* productos */
 .destacados {
@@ -126,6 +139,7 @@ h5 {
     border-radius: 10px;
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 60%)
 }
+
 .imagen_productos {
     display: grid;
     grid-template-columns: repeat(3 , 1fr);
@@ -143,7 +157,9 @@ h5 {
     font-size: 15px;
     font-weight: bold;
 }
-
+.ver-mas:hover {
+    border: 5px solid black;
+}
   /* contacto */
 
 .medios_contacto {
@@ -174,6 +190,9 @@ h5 {
     height: 250px;
     width: 420px;
 }
+.text__area:focus {
+    border: 5px solid red;
+}
 .contacto-grid {
     display: grid;
     grid-template-columns: repeat(2 , 1fr);
@@ -196,10 +215,7 @@ h5 {
     grid-template-columns: 60%  40%;
     align-items: flex-end;
 }
-p {
-    font-size: 28px ;
-    background-color: #e4dea1;
-}
+
 
 @media (max-width: 992px) {
     .descuentos-index { 
