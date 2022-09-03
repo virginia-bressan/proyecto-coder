@@ -41,9 +41,18 @@ h5 {
     border-radius: 20%;
     position: absolute;
     top: 10px;
+    animation-name: nav__inicio;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
 }
-
-    
+@keyframes nav__inicio {
+    0% {background-color: #e25858
+    }
+    50% {background-color: #EC7272
+    }
+    100% {background-color: #f7a76c
+    }
+}
 
 p {
     font-size: 28px ;
@@ -65,6 +74,21 @@ p {
     top: 0px;
     border-radius: 30px;
     box-shadow: 0 30px 50px -12px rgba(0, 0, 0, 60%);
+    animation: imagen 2s infinite;
+}
+@keyframes imagen {
+    0% {
+        top: 0px;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    50% {
+        top: 4px;
+        margin-left: 4px;
+    }
+    100% {
+        margin-right: 4px;
+    }
 }
 .nav__div {
     display: flex;
