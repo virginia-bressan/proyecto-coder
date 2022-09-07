@@ -10,9 +10,6 @@ html {
 ul {
     list-style-type: none;
 }
-body{
-    font-family: 'Varela Round', sans-serif;
-}
 h1{
     line-height: 2;
     font-size: 45px;
@@ -23,13 +20,10 @@ h1{
     
 }
 h3{
-    line-height: 2;
-    font-size: 35px;
+    line-height: ;
     background-color: #E0D98C;
 }
 h5 {
-    font-size: 28px ;
-    font-family: cursive;
     background-color: #E0D98C;
 }
 .nav__inicio {
@@ -53,7 +47,6 @@ h5 {
     100% {background-color: #f7a76c
     }
 }
-
 p {
     font-size: 28px ;
     background-image: linear-gradient( #b8b37b , #C3FF99) ;
@@ -70,7 +63,7 @@ p {
 
 .imagen{
     display: flex;
-    position:absolute;
+    position:sticky;
     top: 0px;
     border-radius: 30px;
     box-shadow: 0 30px 50px -12px rgba(0, 0, 0, 60%);
@@ -91,40 +84,23 @@ p {
     }
 }
 .nav__div {
-    display: flex;
     justify-content: center;
-    height: 90px;
+    height: 100px;
     background-color: #F7A76C;
-    align-items: center;
-}
-.navegador {
-    display: flex;     
-}
-.navegador a {
     font-weight: bold;
-    color: rgb(15, 15, 97);
-    padding: 40px ;
-    margin: 5px;
-    font-size: 30px;
+    font-size: 40px;
 }
+
 .whatsapp {
     position: fixed;
     bottom: 40px;
     right: 20px;
 }
 
-.descuentos-index{
-    display: grid;
-    grid-template-columns: 50% 50%;
+.main-index{
     background-color: #C3FF99;
-    margin: 5px;
-    padding: 20px;
 }
-.aside-index {
-    background-color: #e2dc9c;
-    font-size: 20px;
-    font-weight: bold;
-}
+
 .email {
     height: 35px;
     width: 270px;
@@ -140,7 +116,6 @@ p {
 }
 /* productos */
 .destacados {
-    font-family: 'Varela Round', sans-serif;
     text-decoration: underline;   
     margin: 10px;
     padding: 5px;
@@ -162,6 +137,9 @@ p {
     padding: 10px;
     border-radius: 10px;
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 60%)
+}
+.fondo-prod {
+    background-color:#C3FF99; 
 }
 
 .imagen_productos {
@@ -242,14 +220,8 @@ p {
 
 
 @media (max-width: 992px) {
-    .descuentos-index { 
-        grid-template-columns: 1fr;
-    }
-    .imagen_productos { 
-        grid-template-columns: repeat(2 , 1fr);
-    }
     .nav__div {
-        display: none;
+        font-size: 10px;
     }
     h1 {
         font-size: 30px;
@@ -263,9 +235,6 @@ p {
 }
 
 @media (max-width: 768px) {
-    .imagen_productos { 
-        grid-template-columns: 1fr;
-    }
     .contacto-grid {
         grid-template-columns: 1fr;
     }

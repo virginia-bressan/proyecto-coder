@@ -10,47 +10,62 @@
     <link rel="preconnect" href="https://fonts.googleapis.com"/>
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Varela+Round&display=swap" rel="stylesheet"/>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"></script>
     
 </head>
 <body class="body-index">
-    <header>
-        <div class="header-index">
-           <h1 class="titulo">AFRODITA LIBRERIA</h1>
-    <img class="imagen" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_P8dBB9uIFHycZYnq2f44EpsDdE25P97Ww&usqp=CAU" alt="libreria" width="150px"> 
-        </div> 
+    <header class="">
+        <h1 class="titulo">AFRODITA LIBRERIA</h1>
      
-    <div class="nav__div">
-        <nav>
-            <ul class="navegador">
-                <li><a href="./pages/contacto.html"> contacto</a></li>
-                <li><a href="./pages/productos.html">productos</a></li>
-                <li><a href="./pages/home.html">home</a></li>
-                <li><a href="./pages/entregas.html">entregas</a> </li>
-            </ul>
-        </nav>
-    </div>
-  
+      <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">
+                <img class="imagen" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8_P8dBB9uIFHycZYnq2f44EpsDdE25P97Ww&usqp=CAU" alt="libreria" width="100px">   
+            </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse primary nav__div" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                  <a class="nav-link" aria-current="page" href="./pages/contacto.html"> contacto</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./pages/productos.html">productos</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="./pages/home.html">home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link"href= "./pages/entregas.html">entregas</a>
+                </li>
+              </ul>
+          </div>
+        </div>
+      </nav>
     </header>
     
-    <main >
-    <div class="descuentos-index">
-        <section>
-            <h3 class="subtitulo">Recibi descuentos% exclusivos</h3>
-            <form action="">
-                <input class="email" type="email" placeholder="escribe tu email" name="" id="">
-                <button class="botton" type="submit">Enviar</button>
-            </form>
+    <main>
+        <section class="main-index m-3 p-3 ">
+            <div class="container text-center">
+                <div class="row">
+                  <div class="col">
+                    <h3 class="subtitulo">Recibi descuentos% exclusivos</h3>
+                    <form action="">
+                        <input class="email" type="email" placeholder="escribe tu email" name="" id="">
+                        <button class="botton" type="submit">Enviar</button>
+                    </form>
+                  </div>
+                  <div class="col">
+                    <h3>Donde encontrarnos</h3>
+                    <iframe class="container" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26651.25019225939!2d-64.73910950868154!3d-33.38656337068027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95d192a9ada0d08d%3A0xf930872de8b81279!2sSampacho%2C%20C%C3%B3rdoba!5e0!3m2!1ses-419!2sar!4v1659535677164!5m2!1ses-419!2sar" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" frameborder="0"></iframe>  
+                  </div>
+                </div>
+              </div>
         </section>
-        <div>
-            <section class="donde-encontrarnos">
-                <h3>Donde encontrarnos</h3>
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26651.25019225939!2d-64.73910950868154!3d-33.38656337068027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95d192a9ada0d08d%3A0xf930872de8b81279!2sSampacho%2C%20C%C3%B3rdoba!5e0!3m2!1ses-419!2sar!4v1659535677164!5m2!1ses-419!2sar" width="450" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" frameborder="0"></iframe>  
-            </section>
-        </div> 
-    </div>
-        <hr/>
 
-        <aside class="aside-index"> 
+        <aside class="fw-bold"> 
             <p>Envio gratis a sucursales del correo a partir de $6500 y a domicilio a partir de $8900⭐3 y 6 cuotas sin interés⭐10% off abonando con transferencia bancaria</p>
         </aside>
     </main>
