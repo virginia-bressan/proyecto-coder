@@ -122,15 +122,9 @@ p {
     text-align: center;
 }
 .lista {
-    background: grey;
-    font-size: 18px;
+    background: #b8b37b;
 }
 
-.articulos {
-    background-color: #E0D98C;
-    font-size: 22px;
-    font-weight: bolder;
-}
 
 .img-art {
     background-color:#C3FF99;
