@@ -1,0 +1,22 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "description": "proyecto final coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "build-sass": "node-sass --include-path scss ./scss/style.scss ./css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virginia-bressan/proyecto-coder.git"
+  },
+  "author": "Virginia Bressan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/virginia-bressan/proyecto-coder/issues"
+  },
+  "homepage": "https://github.com/virginia-bressan/proyecto-coder#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3"
+  }
+}

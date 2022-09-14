@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 20;
+} 
+html {
+    scroll-behavior: smooth;
+}
+ul {
+    list-style-type: none;
+}
+h1{
+    line-height: 2;
+    font-size: 45px;
+    background-image: linear-gradient( #e25858, #EC7272 , #f7a76c);
+    color: rgb(43, 43, 139);
+    text-decoration: underline;
+    text-align: center;
+}
+h3{
+    background-color: #E0D98C;
+}
+h5 {
+    background-color: #E0D98C;
+}
+.nav__inicio {
+    background-color: $secondary;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 20%;
+    position: absolute;
+    top: 10px;
+    animation-name: nav__inicio;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+}
+@keyframes nav__inicio {
+    0% {background-color: #e25858
+    }
+    50% {background-color: $primary
+    }
+    100% {background-color: $secondary
+    }
+}
+p {
+    font-size: 28px ;
+    background-image: linear-gradient( #b8b37b , #C3FF99) ;
+}
+.whatsapp {
+    position: fixed;
+    bottom: 40px;
+    right: 20px;
+}

@@ -1,0 +1,26 @@
+/* index */
+.titulo {
+    color: #2b2b8b;
+    background-color: $primary;
+    font-weight: bold;
+    border: 2px solid black;
+    font-size: 50px;
+    text-align: center; }
+  
+  .main-index {
+    background-color: #C3FF99; }
+  
+  .email {
+    height: 35px;
+    width: 270px;
+    border: 5px solid black;
+
+    &:focus {
+        border: 5px solid red;
+       }
+
+}
+  .ubicacion {
+    transform: translate(30px, 20px); 
+  }
+  

@@ -1,0 +1,30 @@
+.imagen {
+    display: flex;
+    position: relative;
+    top: 0px;
+    border-radius: 30px;
+    box-shadow: 0 30px 50px -12px black;
+    animation: imagen 2s infinite; }
+  
+  @keyframes imagen {
+    0% {
+      top: 0px;
+      margin-left: 0px;
+      margin-right: 0px; }
+    50% {
+      top: 4px;
+      margin-left: 4px; }
+    100% {
+      margin-right: 4px; } }
+  
+  .nav__div {
+    justify-content: center;
+    height: 120px;
+    background-color: $secondary;
+    font-weight: bold;
+    font-size: 40px;
+    
+    &:active {
+        text-decoration: underline; }
+}
+  
