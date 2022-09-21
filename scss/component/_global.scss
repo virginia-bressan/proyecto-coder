@@ -52,3 +52,14 @@ p {
     bottom: 40px;
     right: 20px;
 }
+.conteiner {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+@mixin TemplateGrid($columns) {
+    display: grid;
+    grid-template-columns: repeat($columns, 1fr);
+    align-items: center;
+}
+    

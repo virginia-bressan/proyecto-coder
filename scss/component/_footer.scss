@@ -1,0 +1,45 @@
+.footer {
+    background-color: $fourth;
+
+    &__content {
+        @extend .conteiner;
+        @include TemplateGrid(3);
+
+        h4 {
+            font-weight: bold;
+            font-size: 20px;
+        }
+    }
+
+    &__copy {
+        text-align: center;
+        margin: 30px;
+
+    }
+    &__mapaweb a {
+        color: black;
+    }
+    &__rrss {
+        display: flex;
+        justify-content: space-between ;
+
+        $iconSocialMedia: (
+            github: #56adf0,
+            instagram: #ca2b90,
+            facebook: #1a4e8d,
+          );
+          @each $nameSocialMedia, $colorIcon in $iconSocialMedia {
+            .rs-#{$nameSocialMedia} {
+              transition: 0.4s;
+              color: black;
+              font-size: 25px;
+      
+              &:hover {
+                color: $colorIcon;
+              }
+            }
+          }
+        
+    }
+
+}

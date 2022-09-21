@@ -10,22 +10,20 @@
 }
 
 .img-art {
-    background-color:#C3FF99;
+    background-color:$tertiary;
     padding: 10px;
     border-radius: 10px;
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 60%)
 }
 .fondo-prod {
-    background-color:#C3FF99; 
+    background-color:$tertiary; 
 }
 
 .imagen_productos {
-    display: grid;
-    grid-template-columns: repeat(3 , 1fr);
-    align-items: center;
+    @include TemplateGrid(3);
 }
 .ver-mas {
-    background-color: #F7A76C;
+    background-color: $primary;
     display: inline-block;
     width: 100%;
     padding: 15px 0;
@@ -38,4 +36,7 @@
 }
 .ver-mas:hover {
     border: 5px solid black;
+}
+.articulos{
+    @extend .conteiner;
 }

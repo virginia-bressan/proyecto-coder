@@ -52,6 +52,10 @@ p {
   bottom: 40px;
   right: 20px; }
 
+.conteiner, .footer__content, .articulos, .home-grid, .entregas-grid {
+  max-width: 1200px;
+  margin: 0 auto; }
+
 .imagen {
   display: flex;
   position: relative;
@@ -114,6 +118,42 @@ p {
   .medios_contacto {
     font-size: 18px; } }
 
+.footer {
+  background-color: #E0D98C; }
+  .footer__content {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center; }
+    .footer__content h4 {
+      font-weight: bold;
+      font-size: 20px; }
+  .footer__copy {
+    text-align: center;
+    margin: 30px; }
+  .footer__mapaweb a {
+    color: black; }
+  .footer__rrss {
+    display: flex;
+    justify-content: space-between; }
+    .footer__rrss .rs-github {
+      transition: 0.4s;
+      color: black;
+      font-size: 25px; }
+      .footer__rrss .rs-github:hover {
+        color: #56adf0; }
+    .footer__rrss .rs-instagram {
+      transition: 0.4s;
+      color: black;
+      font-size: 25px; }
+      .footer__rrss .rs-instagram:hover {
+        color: #ca2b90; }
+    .footer__rrss .rs-facebook {
+      transition: 0.4s;
+      color: black;
+      font-size: 25px; }
+      .footer__rrss .rs-facebook:hover {
+        color: #1a4e8d; }
+
 /* index */
 .titulo {
   color: #2b2b8b;
@@ -161,7 +201,7 @@ p {
   align-items: center; }
 
 .ver-mas {
-  background-color: #F7A76C;
+  background-color: #EC7272;
   display: inline-block;
   width: 100%;
   padding: 15px 0;
@@ -178,7 +218,9 @@ p {
 /* contacto */
 .medios_contacto {
   font-size: 28px;
-  background-color: #E0D98C; }
+  background-color: #C3FF99;
+  padding: 20px;
+  margin: 20px; }
 
 .botton {
   font-weight: bold;
@@ -201,7 +243,8 @@ p {
 /* home */
 .home-grid {
   display: grid;
-  grid-template-columns: 60%  40%;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
   align-items: flex-end; }
 
 /* entregas */

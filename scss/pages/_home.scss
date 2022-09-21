@@ -1,6 +1,6 @@
 /* home */
 .home-grid {
-    display: grid;
-    grid-template-columns: 60%  40%;
+    @include TemplateGrid(2);
+    @extend .conteiner;
     align-items: flex-end;
 }

@@ -1,10 +1,11 @@
 /* entregas */
 .envios {
-    background-color: #E0D98C;
+    background-color: $fourth;
     font-size: 30px;
     font-weight: bolder;
 }
 .entregas-grid {
     display: grid;
     grid-template-rows: repeat(2 , 2fr);
+    @extend .conteiner;
 }
