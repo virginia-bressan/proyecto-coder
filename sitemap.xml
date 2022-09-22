@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/issues</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/pulls</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/security</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/blob/main/.gitignore</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/blob/main/index.html</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/blob/main/package-lock.json</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/blob/main/package.json</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/blob/main/wireframe.pdf</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/releases</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/compare</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3056822716</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3037348711</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3029804953</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/security/policy</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/security/advisories</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/blob/dc86993735b6269fb9362abe5cedc761c41c7731/.gitignore</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/find/main</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/blob/dc86993735b6269fb9362abe5cedc761c41c7731/index.html</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/blob/dc86993735b6269fb9362abe5cedc761c41c7731/package-lock.json</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/blob/dc86993735b6269fb9362abe5cedc761c41c7731/package.json</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels?sort=name-asc</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels?sort=name-desc</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels?sort=count-desc</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels?sort=count-asc</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels/bug</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels/documentation</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels/duplicate</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels/enhancement</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels/good%20first%20issue</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels/help%20wanted</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels/invalid</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels/question</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/labels/wontfix</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?state=open</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?state=closed</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3056822716/jobs/4931346823</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3056822716/jobs/4931350472</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3056822716/jobs/4931350353</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/commit/dc86993735b6269fb9362abe5cedc761c41c7731</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3056822716/usage</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3037348711/jobs/4889675746</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3037348711/jobs/4889683596</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3037348711/jobs/4889683721</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/commit/8f009b44b79aeac963aa2d36305bd5b5eae0f3aa</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3037348711/usage</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3029804953/jobs/4875458729</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3029804953/jobs/4875460839</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3029804953/jobs/4875460860</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/commit/e3c64a54fcdd60326d23cb95ee60532272333161</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/actions/runs/3029804953/usage</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aopen+sort%3Acreated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aopen+sort%3Aupdated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aopen+sort%3Aupdated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aopen+sort%3Aname-asc&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/security/advisories?state=published</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/find/dc86993735b6269fb9362abe5cedc761c41c7731</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/commit/e1a5e94992218cde97deb81f9069af3a2da6d96b</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aclosed+sort%3Acreated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aclosed+sort%3Aupdated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aclosed+sort%3Aupdated-asc&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aclosed+sort%3Aname-asc&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=sort%3Acreated-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=sort%3Acreated-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aopen+sort%3Acreated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=sort%3Aupdated-desc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=sort%3Aupdated-desc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=sort%3Aupdated-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=sort%3Aupdated-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=sort%3Aname-asc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=sort%3Aname-asc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/commit/197df52c8ba6f8263dee0a943d7eb9cfd691bca8</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=is%3Aclosed+sort%3Acreated-desc&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=sort%3Acreated-desc+is%3Aopen&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/projects?query=sort%3Acreated-desc+is%3Aclosed&amp;type=classic</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/commit/7eef166d98c7467501a1ebf5f9904f41d2fb16c5</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/commit/568a0cc80fe716e257214b62d7b45580e3f96c3b</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/virginia-bressan/proyecto-coder/commit/cb01580557cc5bcb3317ac41a0acfb21355a336e</loc>
+  <lastmod>2022-09-22T14:31:19+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+
+
+</urlset>
